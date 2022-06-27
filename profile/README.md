@@ -2,7 +2,7 @@
 
 ### 🦊 Founntain
 
-<img style="border-radius: 50%;" align="right" width=256 height=256 src="https://osuplayer.founntain.dev/api/users/getProfilePicture?username=Founntain" />
+<img style="border-radius: 50%;" align="right" width=200 height=200 src="https://osuplayer.founntain.dev/api/users/getProfilePicture?username=Founntain" />
 Hey there my name is Founntain!
 A bit about myself. I'm currently `currentYear - 1999` years old and from Germany. 
 Currently I'm working for a medium sized software developing company as Software Consultant.
@@ -23,7 +23,7 @@ After a while Cesan joined me and we started working on it together until now an
 
 ### 🌸 Cesan
 
-<img style="border-radius: 50%;" align="right" width=256 height=256 src="https://osuplayer.founntain.dev/api/users/getProfilePicture?username=Cesan" />
+<img style="border-radius: 50%;" align="right" width=200 height=200 src="https://osuplayer.founntain.dev/api/users/getProfilePicture?username=Cesan" />
 *work in progress*  
 
 ## 🛠️ Projects
