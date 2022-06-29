@@ -2,7 +2,9 @@
 
 ### 🦊 Founntain
 
-<img style="border-radius: 50%;" align="right" width=200 height=200 src="https://osuplayer.founntain.dev/api/users/getProfilePicture?username=Founntain" />
+<a href="https://github.com/Founntain">
+  <img style="border-radius: 50%;" align="right" width=200 height=200 src="https://osuplayer.founntain.dev/api/users/getProfilePicture?username=Founntain" />
+</a>
 Hey there my name is Founntain!
 A bit about myself. I'm currently `currentYear - 1999` years old and from Germany. 
 Currently I'm working for a medium sized software developing company as Software Consultant.
@@ -23,8 +25,20 @@ After a while Cesan joined me and we started working on it together until now an
 
 ### 🌸 Cesan
 
-<img style="border-radius: 50%;" align="right" width=200 height=200 src="https://osuplayer.founntain.dev/api/users/getProfilePicture?username=Cesan" />
-*work in progress*  
+<a href="https://github.com/Cesan">
+  <img style="border-radius: 50%;" align="right" width=200 height=200 src="https://osuplayer.founntain.dev/api/users/getProfilePicture?username=Cesan" />
+</a>
+Hi, I'm Cesan. You can also call me Caro if you want ^^
+
+I'm a self taught C# dev and currently studying Applied Computer Sciences at University.
+I also work as an embedded C dev in the mean time.
+
+I mostly use C# for everything I do because I think it's the most versatile and practical language for desktop development.
+In university I learned C and Java altough I would never use Java personally.
+
+As I joined development of the osu!player I mostly did design stuff in WPF as I understood it best, but now we both do more or less the same stuff because we have quite some experience with the osu!player by now, to make the player look and feel like how it is today.
+
+Thanks for reading and have fun with the player, cheers.
 
 ## 🛠️ Projects
 
